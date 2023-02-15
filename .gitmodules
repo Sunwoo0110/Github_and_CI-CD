@@ -1,0 +1,12 @@
+[submodule "Yu-say-Kim---Assignment-1"]
+	path = Yu-say-Kim---Assignment-1
+	url = https://github.com/Sunwoo0110/Yu-say-Kim---Assignment-1.git
+[submodule "Yu-say-Kim-Assignment-3"]
+	path = Yu-say-Kim-Assignment-3
+	url = https://github.com/Sunwoo0110/Yu-say-Kim-Assignment-3.git
+[submodule "Yu-say-Kim---Assignment-4"]
+	path = Yu-say-Kim---Assignment-4
+	url = https://github.com/Sunwoo0110/Yu-say-Kim---Assignment-4.git
+[submodule "IREM"]
+	path = IREM
+	url = https://github.com/Sunwoo0110/IREM.git
